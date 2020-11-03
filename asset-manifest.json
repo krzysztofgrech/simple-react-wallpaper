@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-react-wallpaper/static/css/main.1628b46f.chunk.css",
+    "main.js": "/simple-react-wallpaper/static/js/main.372892ee.chunk.js",
+    "main.js.map": "/simple-react-wallpaper/static/js/main.372892ee.chunk.js.map",
+    "runtime-main.js": "/simple-react-wallpaper/static/js/runtime-main.60d234f8.js",
+    "runtime-main.js.map": "/simple-react-wallpaper/static/js/runtime-main.60d234f8.js.map",
+    "static/js/2.9fe80211.chunk.js": "/simple-react-wallpaper/static/js/2.9fe80211.chunk.js",
+    "static/js/2.9fe80211.chunk.js.map": "/simple-react-wallpaper/static/js/2.9fe80211.chunk.js.map",
+    "index.html": "/simple-react-wallpaper/index.html",
+    "static/css/main.1628b46f.chunk.css.map": "/simple-react-wallpaper/static/css/main.1628b46f.chunk.css.map",
+    "static/js/2.9fe80211.chunk.js.LICENSE.txt": "/simple-react-wallpaper/static/js/2.9fe80211.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d234f8.js",
+    "static/js/2.9fe80211.chunk.js",
+    "static/css/main.1628b46f.chunk.css",
+    "static/js/main.372892ee.chunk.js"
+  ]
+}
