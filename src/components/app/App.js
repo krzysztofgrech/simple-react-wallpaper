@@ -9,7 +9,7 @@ import ResultCard from '../result_card/ResultCard'
 class App extends React.Component {
 
     state = {
-        unsplash: new Unsplash({ accessKey: 'WvRsb3jIITBvtei5e9anoJwiHZdGaQOHXmmnsoCZ7Kw' }),
+        unsplash: new Unsplash({ accessKey: process.env.REACT_APP_UNSPLASH_API_KEY}),
         images: []
     }
 
