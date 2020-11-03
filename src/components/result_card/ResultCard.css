@@ -1,0 +1,17 @@
+.col {
+  flex-grow: 1;
+  margin: 1em 1em;
+}
+
+.col:last-child {
+  flex-grow: 10;
+}
+
+.fullImage {
+  display: block;
+}
+
+.fullImage img {
+  display: block;
+  width: 100%;
+}
